@@ -1,8 +1,9 @@
 ## Hi there
 
+Here's a list of examples you can find among these repos:
+
 
 ### Python
-Here's a list of examples you can find among these repos:
 
 - https://github.com/sasakostic/folder-sizes-matplotlib' - display folder sizes using matplotlib pie chart
 - https://github.com/sasakostic/extract-color-palette  - extract dominant colors from an image 
