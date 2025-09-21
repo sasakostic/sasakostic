@@ -5,8 +5,8 @@ Here's a list of examples you can find among these repos:
 
 ### Python
 
-- https://github.com/sasakostic/folder-sizes-matplotlib' - display folder sizes using matplotlib pie chart
-- https://github.com/sasakostic/extract-color-palette  - extract dominant colors from an image
+- Display folder sizes using matplotlib pie chart https://github.com/sasakostic/folder-sizes-matplotlib'
+- Extract dominant colors from an image https://github.com/sasakostic/extract-color-palette
 
 ### PHP/Laravel
 
