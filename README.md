@@ -5,8 +5,8 @@ Here's a list of examples you can find among these repos:
 
 ### Python
 
-- Display folder sizes using matplotlib pie chart https://github.com/sasakostic/folder-sizes-matplotlib'
-- Extract dominant colors from an image https://github.com/sasakostic/extract-color-palette
+- Display folder sizes using matplotlib pie chart - https://github.com/sasakostic/folder-sizes-matplotlib'
+- Extract dominant colors from an image - https://github.com/sasakostic/extract-color-palette
 
 ### PHP/Laravel
 
@@ -15,7 +15,7 @@ Here's a list of examples you can find among these repos:
 
 ### C++
 
-- Dlib linear regression example
+- Dlib linear regression example - https://github.com/sasakostic/LinearRegression
 
 <!--
 **sasakostic/sasakostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
