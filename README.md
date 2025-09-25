@@ -17,6 +17,9 @@ Here's a list of examples you can find among these repos:
 
 - Dlib linear regression example - https://github.com/sasakostic/LinearRegression
 
+### Linux
+- Building wget from source - https://github.com/sasakostic/wget-build-from-source
+
 <!--
 **sasakostic/sasakostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
