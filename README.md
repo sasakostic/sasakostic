@@ -19,6 +19,7 @@ Here's a list of examples you can find among these repos:
 
 ### Linux
 - Building wget from source - https://github.com/sasakostic/wget-build-from-source
+![screenshot](./screenshots/01.png)
 
 <!--
 **sasakostic/sasakostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
